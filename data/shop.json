@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": "mock-1",
+      "title": "Leggings Classic",
+      "description_html": "<p>High-Waist-Leggings aus Bio-Baumwolle mit Elasthan. Blickdicht und für Sport und Alltag.</p><p>Größentabelle (Taille / Hüfte in cm): XS 60–64 / 86–90, S 65–69 / 91–95, M 70–74 / 96–100, L 75–79 / 101–105, XL 80–85 / 106–111</p><p>Material: 92 % Bio-Baumwolle, 8 % Elasthan</p>"
+    },
+    {
+      "id": "mock-2",
+      "title": "Sport-BH Flow",
+      "description_html": "<p>Sport-BH mit mittlerem Halt und verstellbaren Trägern.</p><p>Größentabelle (Unterbrustumfang in cm): S 68–72, M 73–77, L 78–82, XL 83–87</p><p>Material: 78 % recyceltes Polyamid, 22 % Elasthan. Waschen bei 30 °C.</p>"
+    },
+    {
+      "id": "mock-3",
+      "title": "Boxershorts 3er-Pack",
+      "description_html": "<p>Boxershorts ohne kratzende Etiketten, im praktischen 3er-Pack.</p><p>Größentabelle (Hüfte in cm): S 86–92, M 93–99, L 100–106, XL 107–113</p><p>Material: 95 % Bio-Baumwolle, 5 % Elasthan</p>"
+    },
+    {
+      "id": "mock-4",
+      "title": "Sneakersocken 6er-Pack",
+      "description_html": "<p>Kurze Socken mit verstärkter Ferse und Spitze, im 6er-Pack.</p><p>Größen: 35–38, 39–42, 43–46</p><p>Material: 80 % Bio-Baumwolle, 18 % Polyamid, 2 % Elasthan</p>"
+    },
+    {
+      "id": "mock-5",
+      "title": "Hoodie Oversize",
+      "description_html": "<p>Lässiger Oversize-Hoodie aus schwerem Sweat, Farbe Salbeigrün.</p><p>Größen: XS–XL, fällt bewusst weit aus.</p><p>Material: 100 % Bio-Baumwolle</p>"
+    },
+    {
+      "id": "mock-6",
+      "title": "Basic T-Shirt",
+      "description_html": "<p>Klassisches T-Shirt mit Rundhals, gerader Schnitt.</p><p>Größentabelle (Brustumfang in cm): S 88–94, M 95–101, L 102–108, XL 109–115</p><p>Material: 100 % Bio-Baumwolle</p>"
+    }
+  ],
+  "sales": {
+    "Leggings Classic": 180,
+    "Sport-BH Flow": 120,
+    "Boxershorts 3er-Pack": 400,
+    "Sneakersocken 6er-Pack": 520,
+    "Hoodie Oversize": 90,
+    "Basic T-Shirt": 260
+  }
+}
