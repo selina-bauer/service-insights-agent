@@ -1,0 +1,201 @@
+ticket_id,date,channel,text
+T001,2026-09-01,email,"Guten Tag, in meinem Paket lag kein Rücksendeetikett. Wie kann ich meine Bestellung zurückschicken und bis wann geht das?"
+T002,2026-09-02,chat,Wollte nur sagen: die Leggings Classic sitzt perfekt und fühlt sich super an. Danke!
+T003,2026-09-03,email,"Hallo, ich habe die Leggings Classic in M bestellt und sie ist deutlich enger als erwartet. Normalerweise passt mir M überall problemlos. Gibt es eine Größentabelle oder fällt die Leggings generell klein aus?"
+T004,2026-09-04,kontaktformular,"Die Boxershorts rutschen im Schritt ständig hoch und der Bund ist irgendwie zu weit. Hab Größe L, vielleicht sollte ich M nehmen?"
+T005,2026-09-05,instagram,"Hey, wo finde ich den Rabattcode aus eurer Story von gestern? Hab ihn leider verpasst 🙈"
+T006,2026-09-06,chat,"Wo bleiben meine Sneakersocken 6er-Pack? Bestellt vor 10 Tagen, die Sendungsverfolgung zeigt seit Tagen nur ‘Paket im Zustellnetz’."
+T007,2026-09-07,email,Beim Hoodie Oversize bilden sich nach zweimal Waschen schon Knötchen am Ärmel. Ist das normal bei dem Stoff?
+T008,2026-09-08,chat,Gibt es den Sport-BH Flow nochmal in Schwarz in Größe L? Im Shop steht überall nur ‘ausverkauft’.
+T009,2026-09-09,email,"Nach dem dritten Waschen löst sich bei meinem Sport-BH Flow die Naht am Träger. Gewaschen habe ich genau nach Etikett, 30 Grad im Wäschenetz. Das ist bei dem Preis wirklich ärgerlich."
+T010,2026-09-10,kontaktformular,"Bitte schicken Sie mir die Rechnung zu meiner letzten Bestellung noch einmal als PDF, ich finde sie nicht mehr."
+T011,2026-09-11,instagram,Der Hoodie Oversize sieht in echt viel grauer aus als auf dem Foto 😕 hatte mir eher einen warmen Sandton vorgestellt
+T012,2026-09-12,chat,"Hallo, ich habe vor 5 Minuten bestellt und mich bei der Hausnummer vertippt. Kann man das noch ändern, bevor das Paket rausgeht?"
+T013,2026-09-13,email,"Aus welchem Material besteht die Leggings Classic genau? In der Beschreibung steht nur Mischgewebe, mich interessiert der Elasthan-Anteil."
+T014,2026-09-14,chat,"meine neue leggings kneift am bund ziemlich, hab sie erst einmal anprobiert. fällt die klein aus??"
+T015,2026-09-15,kontaktformular,Habt ihr auch Jogginghosen im Programm? Ich suche was Passendes zum Hoodie.
+T016,2026-09-16,instagram,"Das Basic T-Shirt ist mir ehrlich gesagt zu kurz, reicht kaum über den Hosenbund. Gibts das auch länger?"
+T017,2026-09-17,email,"Die Socken haben nach drei Mal Tragen schon ein Loch an der Ferse. Das kenne ich von anderen Marken nicht so schnell. Bitte um Rückmeldung, wie ihr damit umgeht."
+T018,2026-09-18,chat,"In meiner Lieferung fehlt die Boxershorts 3er-Pack, es lag nur der Rest der Bestellung im Karton. Außerdem würde ich gern meinen Willkommensgutschein einlösen, aber der Code wird abgelehnt."
+T019,2026-09-19,email,Mein Paket mit den Socken ist seit einer Woche überfällig. Laut Tracking hängt es seit dem 12.09. im Paketzentrum fest. Können Sie bitte nachforschen?
+T020,2026-09-20,kontaktformular,Danke für die schnelle Hilfe gestern! Euer Support ist echt top.
+T021,2026-09-21,chat,"Welche Größe nehm ich beim Sport-BH Flow? Bin zwischen S und M, Unterbrustumfang etwa 75."
+T022,2026-09-22,email,"Der Hoodie Oversize ist bei meiner Größe von 1,60 m wirklich ein Zelt. Ist das so gewollt oder habe ich zu groß bestellt? Würde sonst eine Nummer kleiner nehmen."
+T023,2026-09-23,instagram,Kommt der Hoodie bald wieder rein? Alle Größen sind seit Wochen weg!!
+T024,2026-09-24,kontaktformular,Das weiße Basic T-Shirt ist ziemlich durchsichtig. Gibt es eine Version in dickerem Stoff?
+T025,2026-09-26,chat,"Ich möchte meine Bestellung von heute früh stornieren, ich habe aus Versehen doppelt bestellt. Geht das noch?"
+T026,2026-09-27,email,Die Leggings ist nach zwei Wochen an den Knien schon richtig dünn und leicht durchsichtig geworden. So hatte ich mir die Haltbarkeit nicht vorgestellt.
+T027,2026-09-28,instagram,"Eure Leggings Classic ist ein Traum, aber leider eine Nummer zu klein 😭 Kann ich auf L tauschen?"
+T028,2026-09-29,chat,Sind die Boxershorts aus Bio-Baumwolle? Auf der Produktseite finde ich dazu nichts.
+T029,2026-09-30,email,Mir wurde der Betrag für meine Bestellung zweimal abgebucht. Bitte prüfen Sie das und senden Sie mir eine korrigierte Rechnung.
+T030,2026-10-01,kontaktformular,"sneakersocken 6er pack immer noch nicht da, angeblich sollte die lieferung bis letzten freitag kommen. bitte um info"
+T031,2026-10-02,chat,"Die Sendungsnummer für meinen Hoodie funktioniert nicht, beim Paketdienst findet er nichts. Wurde das Paket überhaupt verschickt?"
+T032,2026-10-03,email,Die Socken rutschen in meinen Sneakern ständig runter. Ich habe Schuhgröße 40 und die Größe 39-42 genommen. Gibt es eine Alternative?
+T033,2026-10-04,chat,"Hey, bei dem BH hat sich nach der Wäsche der Träger vorne gelöst, die Naht geht komplett auf. Ist das ein Garantiefall?"
+T034,2026-10-05,instagram,"Ich kann mich nicht von eurem Newsletter abmelden, der Link funktioniert bei mir nicht. Könnt ihr mich bitte austragen?"
+T035,2026-10-06,email,Ich habe die Boxershorts vor drei Wochen zurückgeschickt und das Geld ist immer noch nicht auf meinem Konto. Wie lange dauert die Erstattung normalerweise?
+T036,2026-10-07,chat,Liefert ihr eigentlich auch nach Österreich? Und was kostet der Versand dorthin?
+T037,2026-10-08,kontaktformular,"Der Kragen vom Basic T-Shirt ist nach dem ersten Waschen komplett ausgeleiert. Ich würde es gern zurückschicken, wie läuft das ab?"
+T038,2026-10-08,kontaktformular,The Leggings Classic run really small. I ordered my usual size and can barely pull them over my hips. Is there a size guide I missed?
+T039,2026-10-09,chat,"Mein Paket mit der Leggings wurde beim Nachbarn abgegeben, ohne dass ich eine Benachrichtigung bekommen habe. Das nächste Mal bitte Packstation."
+T040,2026-10-10,instagram,Gibts die Sneakersocken auch in Schwarz? Hab nur weiß und grau gefunden.
+T041,2026-10-11,email,"Die Farbe vom Hoodie ist leider deutlich grauer als auf euren Produktbildern. Das Foto zeigt einen weichen Sandton, bei mir kam eher Steingrau an. Ich habe am Handy und am Laptop verglichen, das liegt nicht am Bildschirm."
+T042,2026-10-11,chat,Ich habe statt des Sport-BH Flow in Schwarz einen weißen bekommen. Bitte um Austausch.
+T043,2026-10-12,kontaktformular,Sind die Farben im 6er-Pack der Sneakersocken gemischt oder alle gleich? Das steht nirgends.
+T044,2026-10-12,instagram,"Just wanted to say I love my Basic T-Shirt, great fabric and fast shipping. Will order more!"
+T045,2026-10-13,email,"Hallo, gibt es bei euch eine allgemeine Größentabelle mit Körpermaßen? Ich bin 1,75 m und 68 kg und würde gern einmal quer durchs Sortiment bestellen."
+T046,2026-10-13,chat,My Sneakersocken 6er-Pack order was supposed to arrive last week but the tracking hasn’t updated in 6 days. Any news?
+T047,2026-10-14,email,Bei den Boxershorts hat sich das Gummiband nach einmal Waschen total ausgeleiert. Das war nach dem Etikett gewaschen.
+T048,2026-10-14,kontaktformular,Habt ihr auch Sport-Tops im Sortiment? Würde gern zum Sport-BH was Passendes dazu kaufen.
+T049,2026-10-15,chat,"Das Paket kam super schnell, aber der Karton war komplett durchnässt. Das Basic T-Shirt war zum Glück trocken, trotzdem sollte der Versand das nicht machen."
+T050,2026-10-15,instagram,"Mein Gutscheincode geht im Warenkorb nicht, es kommt immer ‘Code ungültig’. Hab ihn zweimal kopiert."
+T051,2026-09-01,chat,"Hallo, bis wann kann ich eine Bestellung zurückschicken? Ich habe vor einer Woche bestellt und bin bei einem Teil nicht sicher."
+T052,2026-09-02,instagram,"Kurzes Lob: Der Hoodie Oversize ist so kuschelig, ich trage ihn praktisch jeden Abend 🥰"
+T053,2026-09-03,email,"Guten Tag, ich habe die Leggings Classic in Größe S bestellt und komme kaum über die Oberschenkel. Bei anderen Marken passt mir S ohne Probleme. Ist die Leggings kleiner geschnitten als üblich? Ich würde sie gern gegen M tauschen."
+T054,2026-09-04,kontaktformular,"Ich möchte die Lieferadresse bei meiner Bestellung von gestern ändern. Ist das noch möglich, und wie teile ich Ihnen die Änderung am besten mit?"
+T055,2026-09-05,chat,"Hi, meine Sneakersocken sollten laut Mail schon vor drei Tagen kommen, aber der Status steht seit über einer Woche auf ‘Sendung wird vorbereitet’. Ist das Paket verloren gegangen?"
+T056,2026-09-06,instagram,"Der Sport-BH Flow rutscht beim Joggen ständig hoch, das Unterbrustband ist zu locker. Hab Größe S genommen, soll ich lieber auf XS gehen?"
+T057,2026-09-07,email,"Beim Sport-BH Flow hat sich nach der zweiten Wäsche der Träger an der Naht angefangen aufzulösen, die Fäden hängen schon raus. Ich habe auf Schonwäsche im Wäschenetz gewaschen. Wie läuft das mit einem Umtausch?"
+T058,2026-09-08,chat,Kann man zwei Gutscheincodes in einer Bestellung kombinieren? Ich habe einen aus dem Newsletter und einen von einer Aktion.
+T059,2026-09-09,kontaktformular,"Die Nähte an den Boxershorts kratzen und nach dem zweiten Waschen hat sich schon ein Faden am Bein gezogen. Das ist doch nicht normal bei dem Preis, oder?"
+T060,2026-09-10,email,"Guten Tag, ich brauche für meine Unterlagen eine Rechnung mit Firmenbezeichnung, bei der Bestellung habe ich das vergessen anzugeben. Kann die Rechnung nachträglich geändert werden?"
+T061,2026-09-11,chat,"meine neue leggins ist viel zu eng am bauch, hab sie gleich wieder ausgezogen. fallen die immer so klein aus oder hab ich was falsches bestellt?"
+T062,2026-09-12,instagram,Wann gibt es die Boxershorts wieder in Dunkelblau? Ich sehe nur noch Schwarz 🙈
+T063,2026-09-13,email,Bestehen die Sneakersocken aus reiner Baumwolle oder ist da Polyester drin? Ich vertrage nicht jedes Material und finde dazu nichts auf der Produktseite.
+T064,2026-09-14,kontaktformular,"Der Hoodie Oversize in M hat extrem lange Ärmel, der Rest passt eigentlich gut. Ist das so gewollt?"
+T065,2026-09-15,chat,Habt ihr auch Badeanzüge oder Bademode? Im Shop finde ich dazu nichts.
+T066,2026-09-16,email,"Der Hoodie Oversize wirkt in echt viel grauer als auf den Produktfotos. Ich hatte mir einen warmen, leicht beigen Ton vorgestellt, geliefert wurde eher ein kühles Grau. Kann ich ihn umtauschen?"
+T067,2026-09-17,kontaktformular,Verkauft ihr eigentlich Geschenkgutscheine? Ich würde gern etwas zum Geburtstag verschenken.
+T068,2026-09-18,email,"Das Basic T-Shirt ist nach dem ersten Waschen eingelaufen und hat am Saum Wellen geworfen. Gewaschen habe ich bei 40 Grad, genau wie auf dem Etikett steht."
+T069,2026-09-19,instagram,"Wollte mich nur bedanken, mein Paket war schon nach zwei Tagen da. Weiter so! ❤️"
+T070,2026-09-20,email,Laut Tracking steht mein Paket mit den Sneakersocken 6er-Pack seit dem 14.09. unverändert im Verteilzentrum. Das ist jetzt fast eine Woche. Bitte kümmert euch darum.
+T071,2026-09-22,chat,"Zwei Fragen: Ich bin 1,85 m und 90 kg, nehme ich beim Basic T-Shirt L oder XL? Und kann ich meinen Geburtstagsgutschein nachträglich auf die laufende Bestellung anrechnen lassen?"
+T072,2026-09-23,kontaktformular,Kommt der Sport-BH Flow in Beige nochmal rein? Alle Größen sind seit Tagen ausverkauft.
+T073,2026-09-24,email,Die Leggings Classic ist nach vier Wäschen am Gesäß deutlich dünner geworden und leicht durchsichtig. Kann ich das reklamieren?
+T074,2026-09-25,instagram,"der bh flow hat nach 3 wäschen ne offene naht am träger, nix gezogen und nix gerissen. hab ich da anspruch auf nen neuen?"
+T075,2026-09-26,chat,"Hi, I sent my return back five days ago with the label from the package. Could you confirm that it has arrived?"
+T076,2026-09-27,kontaktformular,Färben die dunkelblauen Boxershorts beim ersten Waschen ab? Ich würde sie sonst separat waschen.
+T077,2026-09-28,email,"Auf meiner Rechnung ist ein Artikel doppelt aufgeführt, obwohl ich ihn nur einmal bestellt habe. Bitte schicken Sie mir eine korrigierte Rechnung."
+T078,2026-09-29,kontaktformular,"Hallo zusammen, die Leggings Classic fällt wirklich klein aus. Ich habe Größe M bestellt wie immer, aber der Bund schneidet ein und der Stoff spannt an den Waden. Wäre L besser gewesen?"
+T079,2026-09-30,chat,"Mein Gutschein wird als abgelaufen angezeigt, im Newsletter stand aber, er gilt bis Ende Oktober. Was stimmt jetzt?"
+T080,2026-10-01,instagram,"Mein Hoodie ist laut Mail seit Montag unterwegs, aber immer noch nicht da. Kann ich irgendwo sehen, wo er steckt?"
+T081,2026-10-02,email,Ich ziehe um und möchte die Lieferadresse in meinem Kundenkonto ändern. Der Link in der Mail führt bei mir auf eine leere Seite. Gibt es einen anderen Weg?
+T082,2026-10-03,chat,Die Sneakersocken in 35-38 sind mir an der Ferse zu weit und rutschen im Schuh. Gibt es noch eine kleinere Größe?
+T083,2026-10-04,kontaktformular,Meine Socken wurden laut Tracking vor zwei Wochen verschickt und sind bis heute nicht angekommen. Der Paketdienst kann mir auch nichts sagen. Kann ich bitte eine neue Sendung bekommen?
+T084,2026-10-05,email,"Ich hätte gern zwei Dinge geklärt: Wie lange dauert es, bis eine Rücksendung bearbeitet ist? Und passt der Sport-BH Flow in 80C eher in M oder L?"
+T085,2026-10-06,chat,Ist das Basic T-Shirt aus reiner Baumwolle? Und eher dünn oder fest im Stoff?
+T086,2026-10-07,instagram,"Die Socken sind die bequemsten, die ich je hatte. Hab direkt noch ein Pack nachbestellt 👌"
+T087,2026-10-07,chat,Gibt es zum Herbst neue Farben? Dunkelgrün oder Bordeaux wären mega.
+T088,2026-10-08,email,"Mein Hoodie Oversize ist in echt ein kühles Grau, auf dem Foto sah er viel wärmer und beiger aus. Ich bin ein bisschen enttäuscht, weil ich genau diesen Ton wegen meiner anderen Sachen ausgesucht hatte. Vielleicht solltet ihr die Bilder anpassen."
+T089,2026-10-09,kontaktformular,"Ich hatte zwei Boxershorts 3er-Pack bestellt, im Paket war aber nur eins. Auf dem Lieferschein steht auch nur eins."
+T090,2026-10-10,chat,"Hi, do you have a size chart in cm? I’m usually between M and L and don’t want to order the wrong size."
+T091,2026-10-10,instagram,Kann ich mit Klarna zahlen? In der Kasse taucht die Option bei mir nicht auf.
+T092,2026-10-11,email,"Die schwarze Leggings Classic hat nach der Wäsche einen leichten Grauschleier bekommen, als würde die Farbe ausbleichen. Liegt das am Material?"
+T093,2026-10-11,chat,"Die Leggings ist viel zu klein, ich passe da nicht rein 😅 Und ich hab L bestellt!"
+T094,2026-10-12,kontaktformular,"Mein Sport-BH Flow wurde laut Tracking an einer Abholstelle abgegeben, ich habe aber keine Benachrichtigung bekommen und dort weiß keiner etwas davon."
+T095,2026-10-12,instagram,"Im Paket fehlte das Basic T-Shirt, nur der Rest war drin. Was nun?"
+T096,2026-10-13,email,"Hallo, nach nur einer Wäsche hat sich beim Sport-BH Flow der Träger an der Naht gelöst. Ich habe bei 30 Grad gewaschen, so wie es draufsteht. So etwas ist mir bei anderen Sport-BHs noch nie passiert. Bitte um Rückmeldung, wie ich jetzt vorgehen soll."
+T097,2026-10-13,chat,Kann man aus dem 3er-Pack auch einzelne Boxershorts zurückgeben oder nur das ganze Pack?
+T098,2026-10-14,kontaktformular,My socks order has been stuck at the distribution centre for over a week now. Could you please check what’s going on?
+T099,2026-10-15,chat,Wie kann ich mein Kundenkonto löschen? Ich finde die Option in den Einstellungen nicht.
+T100,2026-10-15,email,"Bei meinem Hoodie Oversize ist die Kordel aus der Kapuze gerutscht und lässt sich nicht mehr einfädeln, die Naht am Tunnel scheint offen. Das war nach nur zweimal Tragen."
+T101,2026-09-01,email,"Guten Tag, ich möchte zwei Teile aus meiner letzten Bestellung zurückschicken, weil sie nicht zu meinen anderen Sachen passen. Muss ich dafür vorab etwas online anmelden oder reicht das Retourenlabel im Paket?"
+T102,2026-09-02,chat,Gibts bei euch eigentlich einen Studentenrabatt?
+T103,2026-09-02,instagram,"Die Leggings Classic in S ist bei mir wirklich winzig, ich kriege sie kaum über die Knie 😬 Normalerweise trage ich 36/38. Ist die Größe vielleicht verrutscht oder fällt die so klein aus?"
+T104,2026-09-03,kontaktformular,"Ich bin unsicher bei der Größe vom Sport-BH Flow. Unterbrust 70 cm, Cup B. Würdet ihr mir S empfehlen?"
+T105,2026-09-04,chat,"Hallo, meine Sneakersocken waren für gestern angekündigt, im Tracking steht aber seit Sonntag nichts Neues. Hängt das Paket irgendwo fest?"
+T106,2026-09-05,email,"Beim Einlösen meines Gutscheincodes erscheint die Meldung, dass der Mindestbestellwert nicht erreicht ist. Ich komme aber auf 45 Euro. Wie hoch ist der Mindestbestellwert genau?"
+T107,2026-09-06,instagram,"Ehrlich, eure Boxershorts sind die ersten, die nicht kneifen. Danke dafür!"
+T108,2026-09-07,email,"Guten Tag, der Hoodie Oversize ist bei mir als helles Steingrau angekommen. Auf der Produktseite sah er deutlich wärmer aus, fast wie Hafer. Ich habe die Fotos extra mehrfach angeschaut. Kann ich ihn zurückgeben?"
+T109,2026-09-08,chat,Kann ich die Lieferadresse noch ändern? Hab gerade bestellt und es soll zu meiner Arbeit gehen statt nach Hause.
+T110,2026-09-09,kontaktformular,Nach zwei Wäschen löst sich bei meinem Sport-BH Flow die Naht am Träger. Gewaschen habe ich bei 30 Grad im Schonprogramm. Gibt es dafür Ersatz?
+T111,2026-09-10,email,Ich benötige für die Steuer eine Rechnung zu meiner Bestellung aus dem August. Im Kundenkonto finde ich nur die Rechnung von September.
+T112,2026-09-11,chat,Die Boxershorts haben nach der ersten Wäsche schon Fusseln und der Bund wellt sich. Ist das normal?
+T113,2026-09-12,instagram,Hi! Do you ship the Hoodie Oversize to Ireland? And how long would it take?
+T114,2026-09-13,email,"Wie fällt das Basic T-Shirt aus? Ich bin 1,68 m groß und trage meist M, mag es aber gern locker."
+T115,2026-09-14,chat,"meine leggings ist viel zu eng an den oberschenkeln, ich trag eigentlich immer M und hab auch M genommen. kann ich die umtauschen??"
+T116,2026-09-15,kontaktformular,Seit zehn Tagen warte ich auf meine Sneakersocken 6er-Pack. Die Sendungsverfolgung zeigt seit dem 8.9. nur ‘im Paketzentrum eingetroffen’ und sonst nichts. Bitte um Klärung.
+T117,2026-09-16,email,"Hallo, habt ihr auch Pullover oder Strickjacken im Sortiment? Außerdem wollte ich fragen, wie lange die Rückerstattung nach einer Rücksendung dauert. Ich habe vor einer Woche zurückgeschickt."
+T118,2026-09-17,chat,"Ist der Sport-BH Flow gepolstert, und kann man die Pads rausnehmen? Aus welchem Material besteht er?"
+T119,2026-09-18,instagram,Wann ist der Hoodie Oversize wieder in Schwarz lieferbar? Hab gestern geschaut und nur noch Grau gesehen.
+T120,2026-09-19,email,Sind die Socken eher knapp oder großzügig geschnitten? Ich habe Schuhgröße 42 und bin zwischen zwei Größen.
+T121,2026-09-20,chat,"Ich habe einen Gutschein zum Geburtstag bekommen, aber im Warenkorb gibt es kein Feld dafür. Wo gebe ich den ein?"
+T122,2026-09-21,kontaktformular,"Meine Leggings wurde als zugestellt markiert, aber bei mir ist nichts angekommen und eine Benachrichtigung habe ich auch nicht bekommen."
+T123,2026-09-22,email,"Ich wollte mich kurz bei Ihrem Team bedanken. Ich hatte ein Problem mit der Größe und Ihre Kollegin hat mir innerhalb eines Tages den Umtausch veranlasst, ohne Diskussion. Das habe ich bei anderen Shops schon ganz anders erlebt. Ich bestelle gern wieder bei Ihnen."
+T124,2026-09-23,chat,"Bei meinem neuen Hoodie ist die Kapuze an der Naht schon aufgegangen, dabei hab ich ihn erst zweimal getragen."
+T125,2026-09-24,instagram,"Eure Leggings Classic ist mir leider viel zu eng, obwohl ich meine normale Größe genommen habe. Sehr schade, sie sieht so schön aus 🥲 Ist ein Umtausch auf eine größere Größe möglich?"
+T126,2026-09-25,email,"In meinem Paket fehlen die Boxershorts. Auf dem Lieferschein sind sie aufgeführt, im Karton lag nur das T-Shirt."
+T127,2026-09-26,chat,Bekomme ich die Rechnung nur per Mail oder auch im Paket? Meine Buchhaltung will Papier.
+T128,2026-09-27,kontaktformular,"Das Basic T-Shirt in Weiß hat einen leichten Gelbstich, im Shop sah es reinweiß aus. Ist das normal?"
+T129,2026-09-28,instagram,Wann startet euer Herbstsale? Andere Shops haben schon Rabatt.
+T130,2026-09-29,email,"Guten Tag, bei meinem Sport-BH Flow hat sich nach dem Waschen die Naht am Träger gelöst, nur auf einer Seite, aber so ist er nicht mehr tragbar. Ich habe ihn erst vier Wochen. Ist das ein Fall für Garantie oder Gewährleistung?"
+T131,2026-09-30,chat,"Hi, I haven’t received a shipping confirmation yet for my order from yesterday. Is that normal?"
+T132,2026-10-01,kontaktformular,Die Sneakersocken sollten spätestens gestern da sein. Nichts. Das Tracking hängt seit 5 Tagen. Kann das bitte jemand prüfen?
+T133,2026-10-02,email,"Leider ist der Hoodie eher mausgrau als beige und auf der Webseite sah das ganz anders aus. Ich habe das Bild auf drei Geräten geprüft. Ist das ein Farbstich im Foto? Mir ist der Ton wichtig, weil ich ihn zu meinen anderen Sachen ausgesucht hatte."
+T134,2026-10-03,chat,"Ich habe die Rücksendung vor zwei Tagen abgegeben, bekomme aber noch keine Bestätigung. Ist das normal?"
+T135,2026-10-04,instagram,Ist die Leggings Classic blickdicht? Bei Kniebeugen soll nichts durchscheinen.
+T136,2026-10-05,email,Ich bin umgezogen. Wie ändere ich die Adresse für die noch offene Bestellung? Sie ist noch nicht versendet.
+T137,2026-10-05,chat,"Ich bin zwischen zwei Größen, 1,78 m und 82 kg. Gibt es eine Faustregel für eure Größen oder soll ich besser nach Körpermaßen bestellen?"
+T138,2026-10-06,kontaktformular,Nach dem zweiten Waschgang sind bei zwei Paar der Sneakersocken die Fersen schon ganz dünn geworden.
+T139,2026-10-06,instagram,Statt Größe M habe ich beim Sport-BH Flow Größe S bekommen. Bitte um Austausch.
+T140,2026-10-07,email,Zwei Fragen: Kann ich den Gutschein aus der Bestellbestätigung auch für die nächste Bestellung nutzen? Und wie lange ist die Lieferzeit gerade?
+T141,2026-10-08,chat,"Der Hoodie Oversize fällt bei mir extrem weit aus. Würdet ihr bei 1,65 m eher zu S oder zu XS raten?"
+T142,2026-10-08,kontaktformular,"Mein Hoodie wurde laut Mail versendet, aber die Sendungsnummer ist noch nicht aktiv. Was ist da los?"
+T143,2026-10-09,instagram,Gibt es die Sneakersocken 6er-Pack auch in Pastellfarben? Ich brauche was Hübsches als Geschenk.
+T144,2026-10-10,email,"Das Paket mit dem Basic T-Shirt kam beschädigt an, der Karton war aufgerissen und das T-Shirt schmutzig. Bitte um Ersatz."
+T145,2026-10-11,chat,Ist beim Boxershorts 3er-Pack jede Farbe einzeln erhältlich oder gibt es nur gemischte Packs?
+T146,2026-10-12,kontaktformular,Beim Basic T-Shirt hat sich nach einer Wäsche die Naht an der Schulter gelöst.
+T147,2026-10-13,email,"Die Leggings Classic sitzt endlich mal so, wie ich es mir von einer Basic-Leggings wünsche. Fester Stoff, kein Durchscheinen, bequemer Bund. Danke!"
+T148,2026-10-13,instagram,"Bekommt man bei der Newsletter-Anmeldung wirklich 10% Gutschein? Ich habe mich angemeldet, aber nichts erhalten."
+T149,2026-10-14,chat,"Hello, is the Boxershorts 3er-Pack available in size XXL? I only see up to XL."
+T150,2026-10-15,email,Meine Rechnung enthält eine falsche Lieferadresse. Bitte korrigieren Sie das und senden Sie mir die Rechnung neu zu.
+T151,2026-09-01,chat,"Hallo, wie lange habe ich Zeit, eine Bestellung zurückzuschicken? Mir fehlt das Datum auf dem Lieferschein."
+T152,2026-09-02,email,"Guten Tag, ich habe die Leggings Classic in M bestellt und sie ist an Hüfte und Oberschenkeln deutlich zu eng. In anderen Shops passt mir M ohne Probleme. Fällt die Leggings kleiner aus, und kann ich sie gegen L tauschen?"
+T153,2026-09-02,instagram,"Der Sport-BH Flow ist mein neuer Favorit, sitzt wie eine zweite Haut 😍 Danke!"
+T154,2026-09-03,kontaktformular,"Meine Sneakersocken hätten spätestens vorgestern ankommen sollen, laut Tracking steht das Paket seit fünf Tagen im Paketzentrum. Bitte um Rückmeldung."
+T155,2026-09-04,chat,"Ich habe mich für den Newsletter angemeldet, aber den Gutscheincode nie bekommen. Kann mir den jemand schicken?"
+T156,2026-09-05,email,"Der Hoodie Oversize ist bei mir als kühles Grau angekommen, auf den Fotos wirkte er viel wärmer, eher wie ein heller Sandton. Das Bild habe ich extra auf zwei Geräten geprüft. Ist die Farbe im Shop vielleicht falsch hinterlegt?"
+T157,2026-09-06,chat,"Bei den Boxershorts ist der Bund in L viel zu weit, rutscht ständig runter. Passt M eher?"
+T158,2026-09-07,instagram,"Ich habe gerade bestellt und möchte die Lieferadresse ändern, weil ich nächste Woche nicht zuhause bin. Geht das noch?"
+T159,2026-09-08,email,Bitte senden Sie mir die Rechnung zu meiner Bestellung von Anfang August noch einmal zu. Ich brauche sie für die Reisekostenabrechnung.
+T160,2026-09-09,chat,"Beim Sport-BH Flow hat sich nach dem dritten Waschen die Naht am Träger geöffnet. Gewaschen bei 30 Grad, ohne Trockner. Was kann ich tun?"
+T161,2026-09-10,kontaktformular,Ist das Basic T-Shirt in Schwarz in M noch einmal auf Lager? Seit Tagen steht dort nur ausverkauft.
+T162,2026-09-11,chat,"Hi, do you ship the Hoodie Oversize to the Netherlands, and what are the shipping costs?"
+T163,2026-09-12,email,"Die Leggings Classic in S ist mir viel zu klein, der Bund schneidet ein und der Stoff spannt an den Knien. Ich trage sonst immer 36. Gibt es eine Größentabelle, die ich übersehen habe?"
+T164,2026-09-13,instagram,Die Socken haben nach zwei Mal Tragen schon ein Loch an der Zehe. Das geht doch besser!
+T165,2026-09-14,chat,"Zwei Sachen: Habt ihr auch Sport-Tops oder Tank-Tops im Sortiment? Und wie läuft eine Rücksendung ab, wenn ich das Etikett schon entfernt habe?"
+T166,2026-09-15,kontaktformular,"meine sneakersocken sind seit über einer woche unterwegs, tracking steht seit dem 08.09. auf ‘Paket wird zugestellt’. kann das bitte jemand prüfen"
+T167,2026-09-16,email,Ein großes Lob an Ihren Kundenservice. Meine Frage wurde innerhalb von Minuten freundlich und kompetent beantwortet. So wünsche ich mir das bei jedem Shop.
+T168,2026-09-17,chat,"Mein Paket mit den Boxershorts kam mit aufgerissenem Karton an, die Verpackung der Shorts war offen. Bekomme ich Ersatz?"
+T169,2026-09-18,instagram,Gibt es den Hoodie Oversize auch in XL? Bei mir wird nur bis L angezeigt.
+T170,2026-09-19,email,"Bei meinem Sport-BH Flow löst sich nach nur zwei Wäschen die Naht am Träger auf, die Fäden stehen schon ab. Ich habe nach Etikett gewaschen. Wie gehe ich bei einer Reklamation vor?"
+T171,2026-09-20,chat,"Mein Gutscheincode wird im Warenkorb als abgelaufen angezeigt, in der Mail stand aber Ende Oktober. Was stimmt jetzt?"
+T172,2026-09-21,kontaktformular,Aus welchem Material genau ist die Leggings Classic? Ich reagiere empfindlich auf Polyamid und finde dazu nichts auf der Seite.
+T173,2026-09-23,email,"Das Basic T-Shirt fällt bei mir sehr kurz aus, ich bin 1,80 m groß und trage L. Gibt es eine Long-Variante oder soll ich besser XL nehmen?"
+T174,2026-09-24,instagram,"Ich habe vor einer Woche zurückgeschickt, aber noch keine Erstattung bekommen. Wie lange dauert das normalerweise?"
+T175,2026-09-25,chat,"Der Hoodie Oversize ist viel grauer als auf dem Foto. Auf der Seite sah er cremig beige aus, geliefert wurde ein kühles Steingrau. Schade, das war der Grund für meine Bestellung."
+T176,2026-09-26,email,Bitte tragen Sie mich aus dem Newsletter aus. Der Abmeldelink in der Mail führt bei mir nur auf eine Fehlerseite.
+T177,2026-09-27,chat,"Wo bleiben die Socken? Laut Mail wurden sie vor 9 Tagen verschickt, die Sendungsnummer zeigt aber noch nichts an."
+T178,2026-09-28,kontaktformular,"Ich habe die Leggings Classic in L bestellt und komme kaum rein, sie ist eher wie eine M geschnitten. Kann ich auf XL umtauschen? Für meine Größe sollte L wirklich passen."
+T179,2026-09-29,instagram,"Hi, is there a size chart with measurements for the Sport-BH Flow? I’m between S and M and not sure what to pick."
+T180,2026-09-30,email,"Beim Basic T-Shirt ist nach zwei Wäschen der Kragen ausgeleiert und es hat sich ein kleines Loch am Saum gebildet. Das ist nicht der Qualitätsstandard, den ich von euch erwartet hätte."
+T181,2026-10-01,chat,Kann ich bei euch mit PayPal zahlen? In der Kasse sehe ich die Option nicht.
+T182,2026-10-02,kontaktformular,Kann ich aus dem Boxershorts 3er-Pack einzelne Teile zurückschicken oder muss ich das ganze Pack zurückgeben?
+T183,2026-10-03,email,Beim Hoodie Oversize ist die Kordel aus der Kapuze verschwunden und der Tunnel scheint an der Naht aufgegangen. Ich habe ihn nur dreimal getragen.
+T184,2026-10-03,instagram,Wann kommt eure Herbstkollektion? Ich würde gern auf neue Farben warten.
+T185,2026-10-04,chat,Gibt es die Sneakersocken auch in Größe 43-46? Ich finde nur bis 42.
+T186,2026-10-05,email,"Zwei Anliegen: Bei meiner letzten Bestellung wurde der Betrag doppelt abgebucht, bitte prüfen. Außerdem möchte ich meine Rechnung auf eine Firmenadresse ändern lassen."
+T187,2026-10-06,chat,"Der Gummizug am Bund der Leggings Classic hat sich nach drei Wäschen total ausgeleiert, sie rutscht ständig runter."
+T188,2026-10-07,kontaktformular,In meinem Paket war das Basic T-Shirt in Größe S statt M. Auf dem Lieferschein steht aber M. Bitte um Austausch.
+T189,2026-10-07,instagram,"Der schwarze Sport-BH Flow ist nach der ersten Wäsche schon ziemlich verblasst, fast dunkelgrau. Ist das normal?"
+T190,2026-10-08,email,Bieten Sie eine Geschenkverpackung oder Geschenkkarte an? Ich möchte etwas verschenken und es soll nicht direkt nach Standardpaket aussehen.
+T191,2026-10-09,chat,"Gibt es eine allgemeine Größenübersicht mit Körpermaßen für das ganze Sortiment? Ich bin 1,70 m und 62 kg."
+T192,2026-10-09,email,"Das dunkelblaue Basic T-Shirt hat nach dem ersten Waschen deutlich an Farbe verloren. Ist das beim Material bekannt, und soll ich es separat waschen?"
+T193,2026-10-10,chat,"Ist es möglich, die Bestellung an eine Packstation liefern zu lassen? Bei der Adresseingabe finde ich keine Option dafür."
+T194,2026-10-11,kontaktformular,Die Socken in 39-42 sind mir an der Ferse zu eng und drücken am Spann. Gibt es eine Größe dazwischen?
+T195,2026-10-12,email,"Der Hoodie Oversize ist an den Schultern zu breit, obwohl ich nach Tabelle bestellt habe. Würdet ihr mir für die Größe XS raten?"
+T196,2026-10-12,instagram,"Das Basic T-Shirt ist mein neues Lieblingsteil, genau der richtige Stoff. Ich bestelle gleich noch zwei 💛"
+T197,2026-10-13,chat,"Mein Sport-BH Flow wurde laut Tracking beim Nachbarn abgegeben, aber dort weiß keiner davon. Bitte um Klärung."
+T198,2026-10-14,email,Bei den Boxershorts hat sich nach zwei Wäschen die Naht am Bein aufgelöst. Ich habe nach Etikett gewaschen.
+T199,2026-10-14,chat,Are the Sneakersocken made of cotton or a blend with synthetic fibres? I can’t find the details on the product page.
+T200,2026-10-15,kontaktformular,"Ich möchte meine E-Mail-Adresse im Kundenkonto ändern, aber das Feld ist gesperrt. Wie geht das?"
