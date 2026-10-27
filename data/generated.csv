@@ -52,7 +52,7 @@ T050,2026-10-15,instagram,"Mein Gutscheincode geht im Warenkorb nicht, es kommt 
 T051,2026-09-01,chat,"Hallo, bis wann kann ich eine Bestellung zurückschicken? Ich habe vor einer Woche bestellt und bin bei einem Teil nicht sicher.",unbekannt,Sonstiges
 T052,2026-09-02,instagram,"Kurzes Lob: Der Hoodie Oversize ist so kuschelig, ich trage ihn praktisch jeden Abend 🥰",Hoodie Oversize,Sonstiges
 T053,2026-09-03,email,"Guten Tag, ich habe die Leggings Classic in Größe S bestellt und komme kaum über die Oberschenkel. Bei anderen Marken passt mir S ohne Probleme. Ist die Leggings kleiner geschnitten als üblich? Ich würde sie gern gegen M tauschen.",Leggings Classic,Passform
-T054,2026-09-04,kontaktformular,"Ich möchte die Lieferadresse bei meiner Bestellung von gestern ändern. Ist das noch möglich, und wie teile ich Ihnen die Änderung am besten mit?",unbekannt,Sonstiges
+T054,2026-09-04,kontaktformular,"Ich möchte die Lieferadresse bei meiner Bestellung von gestern ändern. Ist das noch möglich, und wie teile ich Ihnen die Änderung am besten mit?",unbekannt,Lieferung
 T055,2026-09-05,chat,"Hi, meine Sneakersocken sollten laut Mail schon vor drei Tagen kommen, aber der Status steht seit über einer Woche auf ‘Sendung wird vorbereitet’. Ist das Paket verloren gegangen?",Sneakersocken 6er-Pack,Lieferung
 T056,2026-09-06,instagram,"Der Sport-BH Flow rutscht beim Joggen ständig hoch, das Unterbrustband ist zu locker. Hab Größe S genommen, soll ich lieber auf XS gehen?",Sport-BH Flow,Passform
 T057,2026-09-07,email,"Beim Sport-BH Flow hat sich nach der zweiten Wäsche der Träger an der Naht angefangen aufzulösen, die Fäden hängen schon raus. Ich habe auf Schonwäsche im Wäschenetz gewaschen. Wie läuft das mit einem Umtausch?",Sport-BH Flow,Qualität
@@ -82,7 +82,7 @@ T080,2026-10-01,instagram,"Mein Hoodie ist laut Mail seit Montag unterwegs, aber
 T081,2026-10-02,email,Ich ziehe um und möchte die Lieferadresse in meinem Kundenkonto ändern. Der Link in der Mail führt bei mir auf eine leere Seite. Gibt es einen anderen Weg?,unbekannt,Sonstiges
 T082,2026-10-03,chat,Die Sneakersocken in 35-38 sind mir an der Ferse zu weit und rutschen im Schuh. Gibt es noch eine kleinere Größe?,Sneakersocken 6er-Pack,Passform
 T083,2026-10-04,kontaktformular,Meine Socken wurden laut Tracking vor zwei Wochen verschickt und sind bis heute nicht angekommen. Der Paketdienst kann mir auch nichts sagen. Kann ich bitte eine neue Sendung bekommen?,Sneakersocken 6er-Pack,Lieferung
-T084,2026-10-05,email,"Ich hätte gern zwei Dinge geklärt: Wie lange dauert es, bis eine Rücksendung bearbeitet ist? Und passt der Sport-BH Flow in 80C eher in M oder L?",Sport-BH Flow,Sonstiges
+T084,2026-10-05,email,"Ich hätte gern zwei Dinge geklärt: Wie lange dauert es, bis eine Rücksendung bearbeitet ist? Und passt der Sport-BH Flow in 80C eher in M oder L?",Sport-BH Flow,Passform
 T085,2026-10-06,chat,Ist das Basic T-Shirt aus reiner Baumwolle? Und eher dünn oder fest im Stoff?,Basic T-Shirt,Farbe/Material
 T086,2026-10-07,instagram,"Die Socken sind die bequemsten, die ich je hatte. Hab direkt noch ein Pack nachbestellt 👌",Sneakersocken 6er-Pack,Sonstiges
 T087,2026-10-07,chat,Gibt es zum Herbst neue Farben? Dunkelgrün oder Bordeaux wären mega.,unbekannt,Sonstiges
@@ -107,7 +107,7 @@ T105,2026-09-04,chat,"Hallo, meine Sneakersocken waren für gestern angekündigt
 T106,2026-09-05,email,"Beim Einlösen meines Gutscheincodes erscheint die Meldung, dass der Mindestbestellwert nicht erreicht ist. Ich komme aber auf 45 Euro. Wie hoch ist der Mindestbestellwert genau?",unbekannt,Sonstiges
 T107,2026-09-06,instagram,"Ehrlich, eure Boxershorts sind die ersten, die nicht kneifen. Danke dafür!",Boxershorts 3er-Pack,Sonstiges
 T108,2026-09-07,email,"Guten Tag, der Hoodie Oversize ist bei mir als helles Steingrau angekommen. Auf der Produktseite sah er deutlich wärmer aus, fast wie Hafer. Ich habe die Fotos extra mehrfach angeschaut. Kann ich ihn zurückgeben?",Hoodie Oversize,Farbe/Material
-T109,2026-09-08,chat,Kann ich die Lieferadresse noch ändern? Hab gerade bestellt und es soll zu meiner Arbeit gehen statt nach Hause.,unbekannt,Sonstiges
+T109,2026-09-08,chat,Kann ich die Lieferadresse noch ändern? Hab gerade bestellt und es soll zu meiner Arbeit gehen statt nach Hause.,unbekannt,Lieferung
 T110,2026-09-09,kontaktformular,Nach zwei Wäschen löst sich bei meinem Sport-BH Flow die Naht am Träger. Gewaschen habe ich bei 30 Grad im Schonprogramm. Gibt es dafür Ersatz?,Sport-BH Flow,Qualität
 T111,2026-09-10,email,Ich benötige für die Steuer eine Rechnung zu meiner Bestellung aus dem August. Im Kundenkonto finde ich nur die Rechnung von September.,unbekannt,Sonstiges
 T112,2026-09-11,chat,Die Boxershorts haben nach der ersten Wäsche schon Fusseln und der Bund wellt sich. Ist das normal?,Boxershorts 3er-Pack,Qualität
