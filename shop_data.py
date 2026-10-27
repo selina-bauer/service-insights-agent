@@ -51,7 +51,10 @@ def get_product(title: str) -> dict | None:
 def sales_by_product() -> dict[str, int]:
     if DATA_SOURCE == "shopify":
         import shopify_client
-        return shopify_client.sales_by_product()
+        try:
+            return shopify_client.sales_by_product()
+        except RuntimeError as error:
+            print(f"Shopify orders not available ({error}). Using sales from data/shop.json.")
     return _load_mock()["sales"]
 
 
