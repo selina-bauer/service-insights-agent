@@ -10,7 +10,7 @@ T008,Sport-BH Flow,Sonstiges
 T009,Sport-BH Flow,Qualität
 T010,unbekannt,Sonstiges
 T011,Hoodie Oversize,Farbe/Material
-T012,unbekannt,Sonstiges
+T012,unbekannt,Lieferung
 T013,Leggings Classic,Farbe/Material
 T014,Leggings Classic,Passform
 T015,unbekannt,Sonstiges
@@ -34,7 +34,7 @@ T032,Sneakersocken 6er-Pack,Passform
 T033,Sport-BH Flow,Qualität
 T034,unbekannt,Sonstiges
 T035,Boxershorts 3er-Pack,Sonstiges
-T036,unbekannt,Sonstiges
+T036,unbekannt,Lieferung
 T037,Basic T-Shirt,Qualität
 T038,Leggings Classic,Passform
 T039,Leggings Classic,Lieferung
@@ -111,7 +111,7 @@ T109,unbekannt,Lieferung
 T110,Sport-BH Flow,Qualität
 T111,unbekannt,Sonstiges
 T112,Boxershorts 3er-Pack,Qualität
-T113,Hoodie Oversize,Sonstiges
+T113,Hoodie Oversize,Lieferung
 T114,Basic T-Shirt,Passform
 T115,Leggings Classic,Passform
 T116,Sneakersocken 6er-Pack,Lieferung
@@ -134,11 +134,11 @@ T132,Sneakersocken 6er-Pack,Lieferung
 T133,Hoodie Oversize,Farbe/Material
 T134,unbekannt,Sonstiges
 T135,Leggings Classic,Farbe/Material
-T136,unbekannt,Sonstiges
+T136,unbekannt,Lieferung
 T137,unbekannt,Passform
 T138,Sneakersocken 6er-Pack,Qualität
 T139,Sport-BH Flow,Lieferung
-T140,unbekannt,Sonstiges
+T140,unbekannt,Lieferung
 T141,Hoodie Oversize,Passform
 T142,Hoodie Oversize,Lieferung
 T143,Sneakersocken 6er-Pack,Sonstiges
@@ -156,11 +156,11 @@ T154,Sneakersocken 6er-Pack,Lieferung
 T155,unbekannt,Sonstiges
 T156,Hoodie Oversize,Farbe/Material
 T157,Boxershorts 3er-Pack,Passform
-T158,unbekannt,Sonstiges
+T158,unbekannt,Lieferung
 T159,unbekannt,Sonstiges
 T160,Sport-BH Flow,Qualität
 T161,Basic T-Shirt,Sonstiges
-T162,Hoodie Oversize,Sonstiges
+T162,Hoodie Oversize,Lieferung
 T163,Leggings Classic,Passform
 T164,Sneakersocken 6er-Pack,Qualität
 T165,unbekannt,Sonstiges
@@ -191,7 +191,7 @@ T189,Sport-BH Flow,Farbe/Material
 T190,unbekannt,Sonstiges
 T191,unbekannt,Passform
 T192,Basic T-Shirt,Farbe/Material
-T193,unbekannt,Sonstiges
+T193,unbekannt,Lieferung
 T194,Sneakersocken 6er-Pack,Passform
 T195,Hoodie Oversize,Passform
 T196,Basic T-Shirt,Sonstiges

@@ -10,7 +10,7 @@ T008,2026-09-08,chat,Gibt es den Sport-BH Flow nochmal in Schwarz in Größe L? 
 T009,2026-09-09,email,"Nach dem dritten Waschen löst sich bei meinem Sport-BH Flow die Naht am Träger. Gewaschen habe ich genau nach Etikett, 30 Grad im Wäschenetz. Das ist bei dem Preis wirklich ärgerlich.",Sport-BH Flow,Qualität
 T010,2026-09-10,kontaktformular,"Bitte schicken Sie mir die Rechnung zu meiner letzten Bestellung noch einmal als PDF, ich finde sie nicht mehr.",unbekannt,Sonstiges
 T011,2026-09-11,instagram,Der Hoodie Oversize sieht in echt viel grauer aus als auf dem Foto 😕 hatte mir eher einen warmen Sandton vorgestellt,Hoodie Oversize,Farbe/Material
-T012,2026-09-12,chat,"Hallo, ich habe vor 5 Minuten bestellt und mich bei der Hausnummer vertippt. Kann man das noch ändern, bevor das Paket rausgeht?",unbekannt,Sonstiges
+T012,2026-09-12,chat,"Hallo, ich habe vor 5 Minuten bestellt und mich bei der Hausnummer vertippt. Kann man das noch ändern, bevor das Paket rausgeht?",unbekannt,Lieferung
 T013,2026-09-13,email,"Aus welchem Material besteht die Leggings Classic genau? In der Beschreibung steht nur Mischgewebe, mich interessiert der Elasthan-Anteil.",Leggings Classic,Farbe/Material
 T014,2026-09-14,chat,"meine neue leggings kneift am bund ziemlich, hab sie erst einmal anprobiert. fällt die klein aus??",Leggings Classic,Passform
 T015,2026-09-15,kontaktformular,Habt ihr auch Jogginghosen im Programm? Ich suche was Passendes zum Hoodie.,unbekannt,Sonstiges
@@ -34,7 +34,7 @@ T032,2026-10-03,email,Die Socken rutschen in meinen Sneakern ständig runter. Ic
 T033,2026-10-04,chat,"Hey, bei dem BH hat sich nach der Wäsche der Träger vorne gelöst, die Naht geht komplett auf. Ist das ein Garantiefall?",Sport-BH Flow,Qualität
 T034,2026-10-05,instagram,"Ich kann mich nicht von eurem Newsletter abmelden, der Link funktioniert bei mir nicht. Könnt ihr mich bitte austragen?",unbekannt,Sonstiges
 T035,2026-10-06,email,Ich habe die Boxershorts vor drei Wochen zurückgeschickt und das Geld ist immer noch nicht auf meinem Konto. Wie lange dauert die Erstattung normalerweise?,Boxershorts 3er-Pack,Sonstiges
-T036,2026-10-07,chat,Liefert ihr eigentlich auch nach Österreich? Und was kostet der Versand dorthin?,unbekannt,Sonstiges
+T036,2026-10-07,chat,Liefert ihr eigentlich auch nach Österreich? Und was kostet der Versand dorthin?,unbekannt,Lieferung
 T037,2026-10-08,kontaktformular,"Der Kragen vom Basic T-Shirt ist nach dem ersten Waschen komplett ausgeleiert. Ich würde es gern zurückschicken, wie läuft das ab?",Basic T-Shirt,Qualität
 T038,2026-10-08,kontaktformular,The Leggings Classic run really small. I ordered my usual size and can barely pull them over my hips. Is there a size guide I missed?,Leggings Classic,Passform
 T039,2026-10-09,chat,"Mein Paket mit der Leggings wurde beim Nachbarn abgegeben, ohne dass ich eine Benachrichtigung bekommen habe. Das nächste Mal bitte Packstation.",Leggings Classic,Lieferung
@@ -111,7 +111,7 @@ T109,2026-09-08,chat,Kann ich die Lieferadresse noch ändern? Hab gerade bestell
 T110,2026-09-09,kontaktformular,Nach zwei Wäschen löst sich bei meinem Sport-BH Flow die Naht am Träger. Gewaschen habe ich bei 30 Grad im Schonprogramm. Gibt es dafür Ersatz?,Sport-BH Flow,Qualität
 T111,2026-09-10,email,Ich benötige für die Steuer eine Rechnung zu meiner Bestellung aus dem August. Im Kundenkonto finde ich nur die Rechnung von September.,unbekannt,Sonstiges
 T112,2026-09-11,chat,Die Boxershorts haben nach der ersten Wäsche schon Fusseln und der Bund wellt sich. Ist das normal?,Boxershorts 3er-Pack,Qualität
-T113,2026-09-12,instagram,Hi! Do you ship the Hoodie Oversize to Ireland? And how long would it take?,Hoodie Oversize,Sonstiges
+T113,2026-09-12,instagram,Hi! Do you ship the Hoodie Oversize to Ireland? And how long would it take?,Hoodie Oversize,Lieferung
 T114,2026-09-13,email,"Wie fällt das Basic T-Shirt aus? Ich bin 1,68 m groß und trage meist M, mag es aber gern locker.",Basic T-Shirt,Passform
 T115,2026-09-14,chat,"meine leggings ist viel zu eng an den oberschenkeln, ich trag eigentlich immer M und hab auch M genommen. kann ich die umtauschen??",Leggings Classic,Passform
 T116,2026-09-15,kontaktformular,Seit zehn Tagen warte ich auf meine Sneakersocken 6er-Pack. Die Sendungsverfolgung zeigt seit dem 8.9. nur ‘im Paketzentrum eingetroffen’ und sonst nichts. Bitte um Klärung.,Sneakersocken 6er-Pack,Lieferung
@@ -134,11 +134,11 @@ T132,2026-10-01,kontaktformular,Die Sneakersocken sollten spätestens gestern da
 T133,2026-10-02,email,"Leider ist der Hoodie eher mausgrau als beige und auf der Webseite sah das ganz anders aus. Ich habe das Bild auf drei Geräten geprüft. Ist das ein Farbstich im Foto? Mir ist der Ton wichtig, weil ich ihn zu meinen anderen Sachen ausgesucht hatte.",Hoodie Oversize,Farbe/Material
 T134,2026-10-03,chat,"Ich habe die Rücksendung vor zwei Tagen abgegeben, bekomme aber noch keine Bestätigung. Ist das normal?",unbekannt,Sonstiges
 T135,2026-10-04,instagram,Ist die Leggings Classic blickdicht? Bei Kniebeugen soll nichts durchscheinen.,Leggings Classic,Farbe/Material
-T136,2026-10-05,email,Ich bin umgezogen. Wie ändere ich die Adresse für die noch offene Bestellung? Sie ist noch nicht versendet.,unbekannt,Sonstiges
+T136,2026-10-05,email,Ich bin umgezogen. Wie ändere ich die Adresse für die noch offene Bestellung? Sie ist noch nicht versendet.,unbekannt,Lieferung
 T137,2026-10-05,chat,"Ich bin zwischen zwei Größen, 1,78 m und 82 kg. Gibt es eine Faustregel für eure Größen oder soll ich besser nach Körpermaßen bestellen?",unbekannt,Passform
 T138,2026-10-06,kontaktformular,Nach dem zweiten Waschgang sind bei zwei Paar der Sneakersocken die Fersen schon ganz dünn geworden.,Sneakersocken 6er-Pack,Qualität
 T139,2026-10-06,instagram,Statt Größe M habe ich beim Sport-BH Flow Größe S bekommen. Bitte um Austausch.,Sport-BH Flow,Lieferung
-T140,2026-10-07,email,Zwei Fragen: Kann ich den Gutschein aus der Bestellbestätigung auch für die nächste Bestellung nutzen? Und wie lange ist die Lieferzeit gerade?,unbekannt,Sonstiges
+T140,2026-10-07,email,Zwei Fragen: Kann ich den Gutschein aus der Bestellbestätigung auch für die nächste Bestellung nutzen? Und wie lange ist die Lieferzeit gerade?,unbekannt,Lieferung
 T141,2026-10-08,chat,"Der Hoodie Oversize fällt bei mir extrem weit aus. Würdet ihr bei 1,65 m eher zu S oder zu XS raten?",Hoodie Oversize,Passform
 T142,2026-10-08,kontaktformular,"Mein Hoodie wurde laut Mail versendet, aber die Sendungsnummer ist noch nicht aktiv. Was ist da los?",Hoodie Oversize,Lieferung
 T143,2026-10-09,instagram,Gibt es die Sneakersocken 6er-Pack auch in Pastellfarben? Ich brauche was Hübsches als Geschenk.,Sneakersocken 6er-Pack,Sonstiges
@@ -156,11 +156,11 @@ T154,2026-09-03,kontaktformular,"Meine Sneakersocken hätten spätestens vorgest
 T155,2026-09-04,chat,"Ich habe mich für den Newsletter angemeldet, aber den Gutscheincode nie bekommen. Kann mir den jemand schicken?",unbekannt,Sonstiges
 T156,2026-09-05,email,"Der Hoodie Oversize ist bei mir als kühles Grau angekommen, auf den Fotos wirkte er viel wärmer, eher wie ein heller Sandton. Das Bild habe ich extra auf zwei Geräten geprüft. Ist die Farbe im Shop vielleicht falsch hinterlegt?",Hoodie Oversize,Farbe/Material
 T157,2026-09-06,chat,"Bei den Boxershorts ist der Bund in L viel zu weit, rutscht ständig runter. Passt M eher?",Boxershorts 3er-Pack,Passform
-T158,2026-09-07,instagram,"Ich habe gerade bestellt und möchte die Lieferadresse ändern, weil ich nächste Woche nicht zuhause bin. Geht das noch?",unbekannt,Sonstiges
+T158,2026-09-07,instagram,"Ich habe gerade bestellt und möchte die Lieferadresse ändern, weil ich nächste Woche nicht zuhause bin. Geht das noch?",unbekannt,Lieferung
 T159,2026-09-08,email,Bitte senden Sie mir die Rechnung zu meiner Bestellung von Anfang August noch einmal zu. Ich brauche sie für die Reisekostenabrechnung.,unbekannt,Sonstiges
 T160,2026-09-09,chat,"Beim Sport-BH Flow hat sich nach dem dritten Waschen die Naht am Träger geöffnet. Gewaschen bei 30 Grad, ohne Trockner. Was kann ich tun?",Sport-BH Flow,Qualität
 T161,2026-09-10,kontaktformular,Ist das Basic T-Shirt in Schwarz in M noch einmal auf Lager? Seit Tagen steht dort nur ausverkauft.,Basic T-Shirt,Sonstiges
-T162,2026-09-11,chat,"Hi, do you ship the Hoodie Oversize to the Netherlands, and what are the shipping costs?",Hoodie Oversize,Sonstiges
+T162,2026-09-11,chat,"Hi, do you ship the Hoodie Oversize to the Netherlands, and what are the shipping costs?",Hoodie Oversize,Lieferung
 T163,2026-09-12,email,"Die Leggings Classic in S ist mir viel zu klein, der Bund schneidet ein und der Stoff spannt an den Knien. Ich trage sonst immer 36. Gibt es eine Größentabelle, die ich übersehen habe?",Leggings Classic,Passform
 T164,2026-09-13,instagram,Die Socken haben nach zwei Mal Tragen schon ein Loch an der Zehe. Das geht doch besser!,Sneakersocken 6er-Pack,Qualität
 T165,2026-09-14,chat,"Zwei Sachen: Habt ihr auch Sport-Tops oder Tank-Tops im Sortiment? Und wie läuft eine Rücksendung ab, wenn ich das Etikett schon entfernt habe?",unbekannt,Sonstiges
@@ -191,7 +191,7 @@ T189,2026-10-07,instagram,"Der schwarze Sport-BH Flow ist nach der ersten Wäsch
 T190,2026-10-08,email,Bieten Sie eine Geschenkverpackung oder Geschenkkarte an? Ich möchte etwas verschenken und es soll nicht direkt nach Standardpaket aussehen.,unbekannt,Sonstiges
 T191,2026-10-09,chat,"Gibt es eine allgemeine Größenübersicht mit Körpermaßen für das ganze Sortiment? Ich bin 1,70 m und 62 kg.",unbekannt,Passform
 T192,2026-10-09,email,"Das dunkelblaue Basic T-Shirt hat nach dem ersten Waschen deutlich an Farbe verloren. Ist das beim Material bekannt, und soll ich es separat waschen?",Basic T-Shirt,Farbe/Material
-T193,2026-10-10,chat,"Ist es möglich, die Bestellung an eine Packstation liefern zu lassen? Bei der Adresseingabe finde ich keine Option dafür.",unbekannt,Sonstiges
+T193,2026-10-10,chat,"Ist es möglich, die Bestellung an eine Packstation liefern zu lassen? Bei der Adresseingabe finde ich keine Option dafür.",unbekannt,Lieferung
 T194,2026-10-11,kontaktformular,Die Socken in 39-42 sind mir an der Ferse zu eng und drücken am Spann. Gibt es eine Größe dazwischen?,Sneakersocken 6er-Pack,Passform
 T195,2026-10-12,email,"Der Hoodie Oversize ist an den Schultern zu breit, obwohl ich nach Tabelle bestellt habe. Würdet ihr mir für die Größe XS raten?",Hoodie Oversize,Passform
 T196,2026-10-12,instagram,"Das Basic T-Shirt ist mein neues Lieblingsteil, genau der richtige Stoff. Ich bestelle gleich noch zwei 💛",Basic T-Shirt,Sonstiges

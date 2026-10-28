@@ -32,7 +32,15 @@ Antworte ausschließlich mit einem JSON-Objekt in genau diesem Format:
   "sentiment": "<positiv, neutral oder negativ>"}}
 
 Regeln:
-- Nennt das Ticket mehrere Produkte, wähle das Produkt des Hauptanliegens.
+Themen-Definitionen:
+- Passform: Größe, Schnitt und Sitz eines Produkts, auch Größenberatung vor dem Kauf (z. B. "M oder L?").
+- Qualität: Verarbeitung und Haltbarkeit, z. B. Nähte, Löcher, Einlaufen, Ausleiern.
+- Lieferung: Versand, Lieferzeit, Sendungsstatus, Zustellung, Lieferadresse, falscher oder fehlender Artikel im Paket.
+- Farbe/Material: Farbe oder Material weicht von Foto oder Beschreibung ab, Verfärben, Ausbleichen, Fragen zur Materialzusammensetzung.
+- Sonstiges: alles andere, z. B. Zahlung, Rechnung, Gutscheine, Kundenkonto, Newsletter, Ablauf von Rücksendungen, Verfügbarkeit von Größen oder Farben, Lob, Sortiment.
+
+Regeln:
+- Hat das Ticket mehrere Anliegen, wähle das produktbezogene Hauptanliegen.
 - Lässt sich kein Produkt eindeutig zuordnen, schreibe "unbekannt".
 - Erfinde keine Produktnamen.
 
