@@ -60,7 +60,7 @@ Tickets ─> 1 Classify ─────> 2 Cluster (SQL) ───────�
 - **Relative, not absolute counts.** Tickets are counted per 100 units sold, so a bestseller does not stand out just because it sells a lot.
 - **The agent chooses its own data.** It calls tools for product details, sales and example tickets as needed.
 - **Human in the loop.** Nothing is published without approval.
-- **Privacy.** No names or e-mail addresses are sent to the model.
+- **Privacy.** Only the ticket text is sent to the model, not the sender's name or e-mail. In production, personal data inside the text (signatures, addresses) must be removed first.
 - **Complements existing helpdesk tools** such as Zendesk instead of replacing them: their tickets are the input.
 
 ## Limitations
